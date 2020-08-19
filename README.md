@@ -4,4 +4,4 @@
 
 ## Built with: HTML, JavaScript and D3.js
 
-![Screenshot]()
+![Screenshot](https://github.com/jcpeters1/d3-challenge/blob/master/d3_chart.png)
